@@ -1,0 +1,2 @@
+this is sample file
+when the file is created for git
